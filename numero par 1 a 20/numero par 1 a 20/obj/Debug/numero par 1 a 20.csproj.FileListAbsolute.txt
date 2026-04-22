@@ -1,0 +1,7 @@
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\obj\Debug\numero par 1 a 20.csproj.AssemblyReference.cache
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\obj\Debug\numero par 1 a 20.csproj.CoreCompileInputs.cache
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\bin\Debug\numero par 1 a 20.exe.config
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\bin\Debug\numero par 1 a 20.exe
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\bin\Debug\numero par 1 a 20.pdb
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\obj\Debug\numero par 1 a 20.exe
+C:\Users\pietro.lsouza\source\repos\numero par 1 a 20\numero par 1 a 20\obj\Debug\numero par 1 a 20.pdb

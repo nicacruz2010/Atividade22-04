@@ -1,0 +1,7 @@
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\bin\Debug\Leia 5 número e exiba a soma total deles.exe.config
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\bin\Debug\Leia 5 número e exiba a soma total deles.exe
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\bin\Debug\Leia 5 número e exiba a soma total deles.pdb
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\obj\Debug\Leia 5 número e exiba a soma total deles.csproj.AssemblyReference.cache
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\obj\Debug\Leia 5 número e exiba a soma total deles.csproj.CoreCompileInputs.cache
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\obj\Debug\Leia 5 número e exiba a soma total deles.exe
+C:\Users\pietro.lsouza\source\repos\Leia 5 número e exiba a soma total deles\Leia 5 número e exiba a soma total deles\obj\Debug\Leia 5 número e exiba a soma total deles.pdb

@@ -1,0 +1,2 @@
+C:\Users\pietro.lsouza\source\repos\numro 1 100\numro 1 100\obj\Debug\numro 1 100.csproj.AssemblyReference.cache
+C:\Users\pietro.lsouza\source\repos\numro 1 100\numro 1 100\obj\Debug\numro 1 100.csproj.CoreCompileInputs.cache
